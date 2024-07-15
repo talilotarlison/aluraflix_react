@@ -7,7 +7,7 @@
 </p>
 
 > Projeto construido durante a [Imersão React da Alura](https://www.alura.com.br/imersao-react/)
-> Projeto construido durante a [Figma do Projeto Alura](https://www.figma.com/design/06e5IXeOVl8QvA3mm4TENR/New-AluraFlix---PT?node-id=1-106)
+> Projeto do [Figma da Alura](https://www.figma.com/design/06e5IXeOVl8QvA3mm4TENR/New-AluraFlix---PT?node-id=1-106)
 
 ## Como rodar o projeto?
 
